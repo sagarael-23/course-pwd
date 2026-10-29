@@ -1,0 +1,24 @@
+        div {
+            border: 1px solid black;
+            padding: 10px;
+            margin: 10px;
+            background-color: lightgray;
+        }
+        span{
+            background-color: yellow;
+        }
+
+        a{
+        background-color: lightskyblue;
+        width: 50px;
+        height: 50px;
+        margin-right: 5px;
+        display: inline-block;
+        }
+
+        div.artikel{
+        }
+
+        p{
+        text-align: justify;
+        }

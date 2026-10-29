@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(251, 194, 239);
+    background-image: url("pink-flowers.webp");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color: rgb(232, 236, 243);
+    font-size: 2em;
+    font-style: italic;
+    text-transform: all-caps;
+}
+
+a {
+    font-family: Times New Roman, Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(193, 52, 139);
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(248, 252, 255);
+}
+
+p, ol > li > a.cetak-tebal {
+    font-weight: bold;
+    color: rgb(70, 116, 233);
+}
+
+#menu1 {
+    color: red;
+}
+
+ol > li:first-child a {
+    color: rgb(70, 116, 233);
+}

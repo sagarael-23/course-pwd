@@ -1,0 +1,29 @@
+/* .kotak{
+    text-align: justify;
+    width: 50%;
+    height: 200px;
+    background-color: hotpink;
+    overflow: auto;
+} */
+
+div{
+    width: 400px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+
+.satu{
+    background-color: hotpink;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-top: 5px dashed black;
+}
+
+.dua{
+    background-color: lightblue;
+}
+
+.tiga{
+    background-color: lightgreen;
+}
